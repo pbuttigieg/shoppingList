@@ -1,4 +1,0 @@
-bread
-gin
-vermouth
-lemons
