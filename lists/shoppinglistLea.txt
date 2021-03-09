@@ -1,2 +1,3 @@
 birdfood
-fruitswagyu beef
+fruits
+wagyu beef
