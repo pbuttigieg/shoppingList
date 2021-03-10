@@ -10,4 +10,6 @@ Rum (Mount Gay black barrel)
 Coffee
 Sugar
 Buffalo Milk
-Orange 
+Milk
+Pain au chocolat (3x)
+Orange juice
