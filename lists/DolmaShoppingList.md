@@ -7,3 +7,6 @@ Lamb
 Rosemary
 Pinot noir (Valais)
 Rum (Mount Gay black barrel)
+Coffee
+Sugar
+Milk
