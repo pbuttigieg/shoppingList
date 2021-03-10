@@ -9,4 +9,5 @@ Pinot noir (Valais)
 Rum (Mount Gay black barrel)
 Coffee
 Sugar
-Milk
+Buffalo Milk
+Orange 
