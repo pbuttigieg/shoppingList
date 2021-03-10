@@ -4,7 +4,7 @@ orange juice
 coffee 
 chocolate
 milk  
-liver 
+liver (for the non-vegetarian guests)
 fava beans 
-chianti  
+Chianti  
 bleach 
