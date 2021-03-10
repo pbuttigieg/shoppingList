@@ -6,4 +6,5 @@ Chocolate
 Lamb
 Rosemary
 Pinot noir (Valais)
-Rum (Mount Gay black barrel)
+Vita Malz
+
