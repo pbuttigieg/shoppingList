@@ -1,8 +1,6 @@
-chocolate x2
 bananas
-apples
+chocolate
 kiwis
 pears
 cherries
 oranges
-chocolate x2
