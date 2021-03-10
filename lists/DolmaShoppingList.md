@@ -1,9 +1,9 @@
 Potatoes 
-Leak 
+Leek 
 Cheese 
-Flowers 
+Iris 
 Chocolate
 Lamb
 Rosemary
-Wine
-Rum
+Pinot noir (Valais)
+Rum (Mount Gay black barrel)
