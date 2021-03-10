@@ -1,6 +1,9 @@
+bananas
+chocolate
 grapes
 apples
 kiwis
 pears
 cherries
 oranges
+soda
