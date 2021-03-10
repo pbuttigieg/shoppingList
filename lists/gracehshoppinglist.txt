@@ -3,3 +3,6 @@ butter
 bak choi
 carrots
 lettuce
+swiss chard
+broccoli
+potatoes
