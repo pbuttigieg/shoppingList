@@ -6,5 +6,4 @@ chocolate
 milk  
 liver (for the non-vegetarian guests)
 fava beans 
-Chianti  
-bleach 
+Chianti   
