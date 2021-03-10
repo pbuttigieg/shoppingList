@@ -6,4 +6,5 @@ chocolate
 milk  
 liver (for the non-vegetarian guests)
 fava beans 
-Chianti   
+Chianti x 2
+cake   
