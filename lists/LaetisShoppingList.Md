@@ -1,3 +1,3 @@
-dog food
-graded cheese
+-dog food
+-grated cheese
 
