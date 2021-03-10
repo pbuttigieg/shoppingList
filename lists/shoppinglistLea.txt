@@ -1,3 +1,6 @@
 birdfood
 fruits
 wagyu beef
+cheese
+wine
+Gummibärchen
