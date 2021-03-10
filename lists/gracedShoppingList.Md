@@ -1,5 +1,10 @@
-cheese
-bread
-orange juice
-coffee
+cheese 
+bread 
+orange juice 
+coffee 
 chocolate
+milk  
+liver 
+fava beans 
+chianti  
+bleach 
